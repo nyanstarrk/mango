@@ -1,3 +1,3 @@
 # mango
 Mango, on Void Linux with Noctalia-shell
-<img width="1365" height="768" alt="2026-05-18_15-05-1779094000" src="https://github.com/user-attachments/assets/e0e28ecb-0256-4203-b172-bd661d592a4b" />
+<img width="1366" height="768" alt="2026-05-18_20-05-1779113584" src="https://github.com/user-attachments/assets/148a8b1d-8c6e-45c5-a665-99e6bfb4b24a" />
